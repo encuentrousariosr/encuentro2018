@@ -46,7 +46,7 @@
 
 - [Análisis de redes biomédicas: Fármacos, cáncer...](https://www.dropbox.com/s/quwfup03pdt49vl/useR_gdj.pdf?dl=0), [Guillermo de Anda-Jáuregui](https://github.com/guillermodeandajauregui)
 
-- [De datos inmanejables a mapas al alcance de todos en R](https://www.dropbox.com/s/815k3bdoyb3ags0/AFC_150218.pptx?dl=0),Ángel Fragoso
+- [De datos inmanejables a mapas al alcance de todos en R](https://www.dropbox.com/s/815k3bdoyb3ags0/AFC_150218.pptx?dl=0), Ángel Fragoso
 
 - [R y la Web: compartiendo análisis a través de APIs](https://docs.google.com/presentation/d/1fr2yir4BEuLEBzBiRZrLEVx4fM2XSSHOdpe1iD6Wig0/edit?usp=sharing), [Fernando Aguilar](https://github.com/dominoFire/r-web)
 
