@@ -42,9 +42,9 @@
 
 - [Descrangando datos desde la web](https://github.com/arturoTellez/useR-Mex2018), [Arturo Téllez](https://github.com/arturoTellez)
 
-- [Bases de datos de grafos para prevención de fraude](https://docs.google.com/presentation/d/1JlTneNcOJGxQt5uXRorKp-TABteaP7wLLpg0jhtq3QM/edit?usp=sharing), [Código del demo](https://github.com/alfredolozano/GraphDBagainstFraud), [Alfredo Lozano](alozanoo@itam.mx)
+- [Bases de datos de grafos para prevención de fraude](https://docs.google.com/presentation/d/1JlTneNcOJGxQt5uXRorKp-TABteaP7wLLpg0jhtq3QM/edit?usp=sharing), [Código del demo](https://github.com/alfredolozano/GraphDBagainstFraud), Alfredo Lozano
 
--[Análisis de redes biomédicas: Fármacos, cáncer...](https://www.dropbox.com/s/quwfup03pdt49vl/useR_gdj.pdf?dl=0), [Guillermo de Anda-Jáuregui](https://github.com/guillermodeandajauregui)
+- [Análisis de redes biomédicas: Fármacos, cáncer...](https://www.dropbox.com/s/quwfup03pdt49vl/useR_gdj.pdf?dl=0), [Guillermo de Anda-Jáuregui](https://github.com/guillermodeandajauregui)
 
 - [De datos inmanejables a mapas al alcance de todos en R](https://www.dropbox.com/s/815k3bdoyb3ags0/AFC_150218.pptx?dl=0),Ángel Fragoso
 
@@ -52,9 +52,9 @@
 
 - Cristóbal	Fresno
 
-- [¡Extra!¡Extra! Análisis de texto periodístico](https://www.dropbox.com/s/f8zclrxaap4soyt/%C2%A1Extra%21%20%C2%A1Extra%21.html?dl=0), [Irving Simonin](irving@datank.ai)
+- [¡Extra!¡Extra! Análisis de texto periodístico](https://www.dropbox.com/s/f8zclrxaap4soyt/%C2%A1Extra%21%20%C2%A1Extra%21.html?dl=0), Irving Simonin
 
-- [R Integración con Julia](http://www.ollinlangle.com/useR/julia.html#/), [Ollin Langle](@ollin18)
+- [R Integración con Julia](http://www.ollinlangle.com/useR/julia.html#/), [Ollin Langle](https://github.com/ollin18)
 
 - [¿Cómo reducir el tiempo de ejecución de tus funciones?](http://links.otrenav.com/pres-user-2018), [Omar Trejo](https://github.com/otrenav)
 
