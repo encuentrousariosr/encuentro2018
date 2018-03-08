@@ -60,7 +60,7 @@
 
 - [Tutorial del paquete Shiny](https://lasquinceletras.shinyapps.io/tutorial-shiny/), [Mariana Carmona](https://github.com/mcarmonabaez)
 
-- [Shiny apps con async programming](https://www.dropbox.com/s/trh10tja512cwo5/presentacion_shiny.html?dl=0)[Mariana Godina](https://github.com/marianaga89)
+- [Shiny apps con async programming](https://www.dropbox.com/s/trh10tja512cwo5/presentacion_shiny.html?dl=0), [Mariana Godina](https://github.com/marianaga89)
 
 - [Taller de bookdown](https://github.com/felipegonzalez/rusuarios-bookdown), [Luis Felipe González](https://github.com/felipegonzalez)
 
