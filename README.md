@@ -18,7 +18,7 @@
 
 - Gabriela	Otero
 
-- Alicia	Mastretta
+- [De los genes a los datos: Uso de R en análisis genómicos](https://www.dropbox.com/s/k1pfrbtmwv7nx3z/De%20los%20genes%20a%20los%20datos.pptx?dl=0), Azalea Guerra e Idalia Rojas
 
 - Yolanda	Villavicencio
 
