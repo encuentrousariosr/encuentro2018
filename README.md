@@ -64,5 +64,5 @@
 
 - [Taller de bookdown](https://github.com/felipegonzalez/rusuarios-bookdown), [Luis Felipe González](https://github.com/felipegonzalez)
 
-§ Para ver la presentación es necesario descargar el archivo .html, ya que el visualizador de Dropbox no es compatible.
+** Para ver las presentaciones es necesario descargar el archivo .html, ya que el visualizador de Dropbox no es compatible.
 
