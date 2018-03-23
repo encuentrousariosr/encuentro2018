@@ -14,15 +14,15 @@
 
 - [R Redes Sociales Y Sus Posibles Alcances](https://www.dropbox.com/s/9bbn67ohu3xhg4g/Redes%20Sociales%20Encuentro%20R%20ITAM.pdf?dl=0), José Antonio Muniz Martinez
 
-- [Una aplicación de bigrquery](https://www.dropbox.com/s/8w791zm3qjfrzu1/UseR-bigrquery.html?dl=0), [Sonia Mendizabal](https://github.com/Songeo)
+- [Una aplicación de bigrquery](https://www.dropbox.com/s/8w791zm3qjfrzu1/UseR-bigrquery.html?dl=0), [Sonia Mendizabal](https://github.com/Songeo) *
 
-- Gabriela	Otero
+- [Consideraciones técnicas de encuestas poblacionales](https://www.dropbox.com/s/ueuzqkmx7nl0hfz/RDAY_SALUD_CAD.pdf?dl=0), Gabriela Otero
 
 - [De los genes a los datos: Uso de R en análisis genómicos](https://www.dropbox.com/s/k1pfrbtmwv7nx3z/De%20los%20genes%20a%20los%20datos.pptx?dl=0), Azalea Guerra e Idalia Rojas
 
 - Yolanda	Villavicencio
 
-- [Prueba de Hipótesis: Shiny como una herramienta didáctica](https://www.dropbox.com/s/depqbtfywtot8bm/ppt_prueba_hip_shiny.html?dl=0), Elizabeth Solis
+- [Prueba de Hipótesis: Shiny como una herramienta didáctica](https://www.dropbox.com/s/depqbtfywtot8bm/ppt_prueba_hip_shiny.html?dl=0), Elizabeth Solis *
 
 - [R y la investigación reproducible](http://slides.com/monzalo14/deck#/), [Mónica Zamudio](https://github.com/monzalo14)
 
@@ -52,7 +52,7 @@
 
 - Cristóbal	Fresno
 
-- [¡Extra!¡Extra! Análisis de texto periodístico](https://www.dropbox.com/s/f8zclrxaap4soyt/%C2%A1Extra%21%20%C2%A1Extra%21.html?dl=0), Irving Simonin
+- [¡Extra!¡Extra! Análisis de texto periodístico](https://www.dropbox.com/s/f8zclrxaap4soyt/%C2%A1Extra%21%20%C2%A1Extra%21.html?dl=0), Irving Simonin *
 
 - [R Integración con Julia](http://www.ollinlangle.com/useR/julia.html#/), [Ollin Langle](https://github.com/ollin18)
 
@@ -60,7 +60,9 @@
 
 - [Tutorial del paquete Shiny](https://lasquinceletras.shinyapps.io/tutorial-shiny/), [Mariana Carmona](https://github.com/mcarmonabaez)
 
-- [Shiny apps con async programming](https://www.dropbox.com/s/trh10tja512cwo5/presentacion_shiny.html?dl=0), [Mariana Godina](https://github.com/marianaga89)
+- [Shiny apps con async programming](https://www.dropbox.com/s/trh10tja512cwo5/presentacion_shiny.html?dl=0), [Mariana Godina](https://github.com/marianaga89) *
 
 - [Taller de bookdown](https://github.com/felipegonzalez/rusuarios-bookdown), [Luis Felipe González](https://github.com/felipegonzalez)
+
+* Para ver la presentación es necesario descargar el archivo .html, ya que el visualizador de Dropbox no es compatible.
 
