@@ -10,7 +10,7 @@
 
 ### Viernes 16-02-2018
 
-- Andreu	Boada
+- [Kriging espacio temporal](https://www.dropbox.com/s/mnf38dv1vsdlwt5/st-kriging.html?dl=0), Andreu Boada  **
 
 - [R Redes Sociales Y Sus Posibles Alcances](https://www.dropbox.com/s/9bbn67ohu3xhg4g/Redes%20Sociales%20Encuentro%20R%20ITAM.pdf?dl=0), José Antonio Muniz Martinez
 
@@ -30,7 +30,7 @@
 
 - [Inferencia visual](https://tereom.github.io/tutoriales/inferencia_visual_pres#1), [Teresa Ortiz](https://github.com/tereom)
 
-- Ana Laura	Vela Suistaita
+- [Taller de ggplot2](https://www.dropbox.com/s/u42h6urx26azjxa/ggplot2.html?dl=0), [Ana Laura Vela Suistaita](https://github.com/sustaitaana) ** 
 
 - [Micro taller de introducción a los verbos del Tidyverse](https://github.com/animalito/tidyverse-verbs), [Andrea Fernández](https://github.com/animalito)
 
@@ -52,7 +52,7 @@
 
 - [R y la Web: compartiendo análisis a través de APIs](https://docs.google.com/presentation/d/1fr2yir4BEuLEBzBiRZrLEVx4fM2XSSHOdpe1iD6Wig0/edit?usp=sharing), [Fernando Aguilar](https://github.com/dominoFire/r-web)
 
-- Cristóbal	Fresno
+- [Linear Models on DesignedMultivariate Experiments in R](https://www.dropbox.com/s/0ttqy6g5mh267fc/lmdme.pdf?dl=0), Cristóbal Fresno
 
 - [¡Extra!¡Extra! Análisis de texto periodístico](https://www.dropbox.com/s/f8zclrxaap4soyt/%C2%A1Extra%21%20%C2%A1Extra%21.html?dl=0), Irving Simonin **
 
