@@ -4,6 +4,10 @@
 
 <https://encuentrousuariosr.wixsite.com/itam2018>
 
+## Link videos
+
+<https://www.youtube.com/playlist?list=PLrRImWhyaEQ3H5kQTZ2cgfq6r2jMZXGF7>
+
 ## Links a las presentaciones
 
 ---
