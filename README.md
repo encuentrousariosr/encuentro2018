@@ -1,5 +1,9 @@
 # Encuentro de usuarios de R 2018
 
+## Poster
+
+<https://www.dropbox.com/s/n6ynqarjg9j228t/posterEncuentro2018.pdf?dl=0>
+
 ## Página web
 
 <https://encuentrousuariosr.wixsite.com/itam2018>
